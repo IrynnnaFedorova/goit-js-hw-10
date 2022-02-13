@@ -1,0 +1,25 @@
+.country-list {
+  margin: 0;
+  width: 320px;
+  padding: 0 8px;
+}
+
+.country-list__item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.country-list__item:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.country-list__image {
+  margin-right: 20px;
+  width: 40px;
+}
+
+.country-list_name {
+  margin: 0;
+  font-size: 20px;
+}

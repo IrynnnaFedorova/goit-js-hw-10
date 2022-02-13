@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "joi": "^17.6.0",
+    "lodash.debounce": "^4.0.8",
     "notiflix": "^3.2.4",
     "validator": "^13.7.0"
   }
